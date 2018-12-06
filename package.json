@@ -1,5 +1,5 @@
 {
-  "name": "mitsuku-api",
+  "name": "mitsuku",
   "version": "0.1",
   "description": "API for Mitsuku chatbot",
   "main": "index.js",
