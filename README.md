@@ -7,7 +7,7 @@ npm install mitsuku-api
 ```
 
 ##Disclaimer
-This library is not intended for any serious use. Under the hood it just scrapes messages from raw HTML responses that [Mitsuku webchat](http://www.square-bear.co.uk/mitsuku/nfchat.htm) provides. Use of this libray in contexts other than educational is dicouraged, please refer to [pandorabots](http://www.pandorabots.com/) otherwise.
+This library is not intended for any serious use. Under the hood it just scrapes messages from raw HTML responses that [Mitsuku webchat](http://www.square-bear.co.uk/mitsuku/nfchat.htm) provides. Use of this libray in contexts other than educational is discouraged, please refer to [pandorabots](http://www.pandorabots.com/) otherwise.
 
 ## Usage
 ``` js
